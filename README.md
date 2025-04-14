@@ -5,7 +5,7 @@ A curated collection of innovative concepts, frameworks, and experimental design
 - B.Eng. Janne Honkonen
 - Homepage: https://www.jannehonkonen.com
 - Github: https://github.com/JanneHonkonen
-- 
+
 ## Contents
 - **AI & Machine Learning** Proposals for advanced AI perception systems, including multimodal emotion recognition and context-aware processin.
 - **Software Engineering** Design patterns, architectural blueprints, and coding paradigms aimed at enhancing development efficiency and software robustnes.
