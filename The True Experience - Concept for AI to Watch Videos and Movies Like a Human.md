@@ -7,9 +7,9 @@ This document outlines a theoretical and practical foundation for developers, AI
 
 ## Author
 
-B.Eng. Janne Honkonen
-https://www.jannehonkonen.com
-https://github.com/JanneHonkonen
+- B.Eng. Janne Honkonen
+- Homepage: https://www.jannehonkonen.com
+- Github: https://github.com/JanneHonkonen
 
 ## Core Philosophy
 Human viewers do not watch films as isolated sequences of images or sounds; they absorb **emotionally charged context**, constructed through changes in visual composition, auditory cues, and narrative pacing. A true AI film-watching model must:
