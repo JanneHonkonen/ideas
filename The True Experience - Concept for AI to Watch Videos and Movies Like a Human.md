@@ -5,7 +5,11 @@
 
 This document outlines a theoretical and practical foundation for developers, AI researchers, and multimedia tool creators to implement advanced film cognition into apps, extensions, or analysis systems.
 
----
+## Author
+
+B.Eng. Janne Honkonen
+https://www.jannehonkonen.com
+https://github.com/JanneHonkonen
 
 ## Core Philosophy
 Human viewers do not watch films as isolated sequences of images or sounds; they absorb **emotionally charged context**, constructed through changes in visual composition, auditory cues, and narrative pacing. A true AI film-watching model must:
